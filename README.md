@@ -2,7 +2,7 @@
 
 #### Desenvolvedor FullStack Junior.
 
-Sou recém formado no curso de Análise e Deenvolvimento de Sistemas e sou apaixonado em desenvolver maneiras de solucionar problemas utilizando programação, hoje estou estudando muito para me tornar um Desenvolvedor FullStack, atualmente já atuo na área como desenvolvedor júnior, sou uma pessoa esforçada que busca acompanhar as tecnologias que o mercado vem buscando e com isso adquirir cada vez mais conhecimento teórico e pratico nessa area que vem crescendo cada dia mais.
+Sou recém formado no curso de Análise e Deenvolvimento de Sistemas e sou apaixonado em desenvolver maneiras de solucionar problemas utilizando programação, hoje estou estudando muito para me tornar um Desenvolvedor FullStack Senior, atualmente já atuo na área como desenvolvedor júnior, sou uma pessoa esforçada que busca acompanhar as tecnologias que o mercado vem buscando e com isso adquirir cada vez mais conhecimento teórico e pratico nessa area que vem crescendo cada dia mais.
 
 ## Stacks
 - **Front-end**
