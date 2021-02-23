@@ -24,4 +24,4 @@ Sou recém formado no curso de Análise e Deenvolvimento de Sistemas e sou apaix
 [![Linkedin Badge](https://img.shields.io/badge/-Emerson%20Vieira-1E90FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-vieira-9416267b/)](https://www.linkedin.com/in/emerson-vieira-9416267b/) [![Gmail Badge](https://img.shields.io/badge/-emevieira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emevieira@gmail.com)](mailto:emevieira@gmail.com) 
 
 ## Stats
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=emevieira123n&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=emevieira123&theme=blue-green)
