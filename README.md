@@ -4,6 +4,16 @@
 
 recém formado no curso de Análise e Desenvolvimento de Sistemas e sou apaixonado em desenvolver maneiras de solucionar problemas, hoje estou estudando muito para me tornar um Desenvolvedor FullStack, atualmente já atuo na área como Desenvolvedor Júnior, sou uma pessoa esforçada que busca acompanhar a evolução das tecnologias que o mercado está buscando, matendo assim atualizado o conhecimento teórico e prático nessa area que vem crescendo cada dia mais.
 
+## GitHub Stats
+
+ <div>
+  <a href="https://github.com/emevieira123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emevieira123&show_icons=true&include_all_commits=true&count_private=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emevieira123&layout=compact&langs_count=7&theme=merko"/>
+</div>
+<!--
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=emevieira123&theme=blue-green) -->
+
 ## Stacks
 - **Front-end**
 
@@ -20,17 +30,6 @@ recém formado no curso de Análise e Desenvolvimento de Sistemas e sou apaixona
 SQL-Server   | MySQL
 ------------ | ------
 
-
 ## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Emerson%20Vieira-1E90FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-vieira-9416267b/)](https://www.linkedin.com/in/emerson-vieira-9416267b/) [![Gmail Badge](https://img.shields.io/badge/-emevieira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emevieira@gmail.com)](mailto:emevieira@gmail.com) 
-
-## Stats
-
- <div>
-  <a href="https://github.com/emevieira123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emevieira123&show_icons=true&include_all_commits=true&count_private=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emevieira123&layout=compact&langs_count=7&theme=merko"/>
-</div>
-<!--
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=emevieira123&theme=blue-green) -->
