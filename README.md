@@ -1,8 +1,8 @@
-# Emerson Vieira
+# Olá, sou o Emerson Vieira
 
-#### Desenvolvedor FullStack Junior.
+#### Sou Desenvolvedor Júnior,
 
-Sou recém formado no curso de Análise e Desenvolvimento de Sistemas e sou apaixonado em desenvolver maneiras de solucionar problemas utilizando programação, hoje estou estudando muito para me tornar um Desenvolvedor FullStack Senior, atualmente já atuo na área como desenvolvedor júnior, sou uma pessoa esforçada que busca acompanhar as tecnologias que o mercado vem buscando e com isso adquirir cada vez mais conhecimento teórico e pratico nessa area que vem crescendo cada dia mais.
+recém formado no curso de Análise e Desenvolvimento de Sistemas e sou apaixonado em desenvolver maneiras de solucionar problemas, hoje estou estudando muito para me tornar um Desenvolvedor FullStack, atualmente já atuo na área como Desenvolvedor Júnior, sou uma pessoa esforçada que busca acompanhar a evolução das tecnologias que o mercado está buscando, matendo assim atualizado o conhecimento teórico e prático nessa area que vem crescendo cada dia mais.
 
 ## Stacks
 - **Front-end**
@@ -15,13 +15,22 @@ Sou recém formado no curso de Análise e Desenvolvimento de Sistemas e sou apai
 
 - **Banco de dados**
 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> -->
 
-**SQL-Server**
+SQL-Server   | MySQL
+------------ | ------
+
 
 ## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Emerson%20Vieira-1E90FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-vieira-9416267b/)](https://www.linkedin.com/in/emerson-vieira-9416267b/) [![Gmail Badge](https://img.shields.io/badge/-emevieira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emevieira@gmail.com)](mailto:emevieira@gmail.com) 
 
 ## Stats
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=emevieira123&theme=blue-green)
+
+ <div>
+  <a href="https://github.com/emevieira123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emevieira123&show_icons=true&include_all_commits=true&count_private=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emevieira123&layout=compact&langs_count=7&theme=merko"/>
+</div>
+<!--
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=emevieira123&theme=blue-green) -->
