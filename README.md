@@ -1,8 +1,8 @@
 # Olá, sou o Emerson Vieira
 
-#### Sou Desenvolvedor Júnior,
+#### Desenvolvedor Front-End Jr,
 
-recém formado no curso de Análise e Desenvolvimento de Sistemas e sou apaixonado em desenvolver maneiras de solucionar problemas, hoje estou estudando muito para me tornar um Desenvolvedor FullStack, atualmente já atuo na área como Desenvolvedor Júnior, sou uma pessoa esforçada que busca acompanhar a evolução das tecnologias que o mercado está buscando, matendo assim atualizado o conhecimento teórico e prático nessa area que vem crescendo cada dia mais.
+Sou formado no curso de Análise e Desenvolvimento de Sistemas e sou apaixonado em desenvolver maneiras de solucionar problemas, hoje estou estudando muito para me tornar um Desenvolvedor FullStack, atualmente já atuo na área como Desenvolvedor Front-End Jr, sou uma pessoa esforçada que busca estar sempre me atualizando com as tecnologias que o mercado vem buscando e assim atualizado meu conhecimento teórico e prático nessa area que vem crescendo cada dia mais.
 
 ## GitHub Stats
 
