@@ -1,6 +1,6 @@
 # Hi, I'm Emerson Vieira
 
-- Junior Front End Developer
+- Front-end Developer
 
 - I am currently working at the company [Nuvem Tecnologia](https://nuvem.net/)
 
